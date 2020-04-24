@@ -24,6 +24,7 @@ node (32337,31785,7)
 action check_supplies
 label check_stealth
 label go_hunt
+node (32341,31785,7)
 node (32341,31769,7)
 node (32341,31760,7)
 node (32341,31743,7)
