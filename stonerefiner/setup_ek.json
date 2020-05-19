@@ -56,7 +56,10 @@
 	{"action":"drop_vials", "interval":60},
 	{"action":"equip_item", "interval":3, "use_in_battle":true, "args":{"hotkey":"f8", "selected_monsters":["Stonerefiner"], "amount":3}},
 	{"action":"eat_food", "interval":40, "args":{"hotkey":"f11"}},
-	{"action":"recover_full_mana", "interval":3, "args":["e"]}
+	{"action":"recover_full_mana", "interval":3, "args":["e"]},
+	{"action":"use_hotkey_at_sqm", "args":{"hotkey":"f8", , "sqm":[33092,32074,11]}},
+	{"action":"use_hotkey_at_sqm", "args":{"hotkey":"f8", , "sqm":[33037,32008,12]}}
+	
 ],
 "target_monsters": 
 [
