@@ -47,6 +47,8 @@ stand (33072, 32086, 7)
 stand (33078, 32079, 8)
 stand (33092, 32069, 9)
 stand (33092,32074,10)
+label use_stealth_ring
+action wait
 node (33076,32078,11)
 node (33067,32071,11)
 node (33065,32062,11)
@@ -60,6 +62,8 @@ node (33039,32054,12)
 node (33039,32036,12)
 node (33040,32013,12)
 ladder (33036,32008,12)
+label use_stealth_ring
+action wait
 stand (33037,32009,12)
 label hunt
 node (33055,32002,13)
@@ -90,6 +94,8 @@ label leave
 node (33039,32003,13)
 stand (33037,32009,13)
 ladder (33036,32008,12)
+label use_stealth_ring
+action wait
 node (33040,32035,12)
 node (33039,32059,12)
 ladder (33046,32066,12)
@@ -100,6 +106,8 @@ node (33068,32074,11)
 node (33091,32078,11)
 rope (33092,32074,11)
 stand (33092, 32069, 10)
+label use_stealth_ring
+action wait
 rope (33092,32069,10)
 stand (33078, 32079, 9)
 rope (33078, 32079, 9)
