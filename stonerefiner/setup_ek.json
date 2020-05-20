@@ -50,7 +50,8 @@
 "label_actions": 
 [
     {"label":"withdraw_ring", "action":"withdraw_item_from_depot_to_backpack", "args": {
-	    "item_name":"stealth ring", "depot_num":3, "backpack_name":"Backpack", "amount":3, "stack":false}}
+	    "item_name":"stealth ring", "depot_num":3, "backpack_name":"Backpack", "amount":3, "stack":false}},
+	{"label":"use_stealth_ring", "action":"use_hotkey", "args": {"hotkey":"f8"}}
 ],
 "persistent_actions": [
 	{"action":"drop_vials", "interval":60},
